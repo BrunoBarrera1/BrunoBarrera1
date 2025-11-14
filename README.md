@@ -1,47 +1,76 @@
-## Hi, I'm Bruno
+<h1 align="center"> Hey, I'm Bruno</h1>
+<p align="center">
+  <b>Full-Stack Developer — Backend Focus (TS, Node, Fastify) | Python | C | Bash</b>
+</p>
 
-### Back-end Student
-
-Im interested in building clean and scalable systems.
-Currently im working in some front-end projects and i've just recently finished my holberton mvp called ELIO, which is an intelligent clinical summary generator powered by Gemini 2.0 Flash
+<p align="center">
+  I build practical, scalable systems — APIs, automation tools, and clean frontends.
+  Currently working on <b>ELIO</b>, an AI-powered clinical documentation assistant.
+</p>
 
 ---
 
-## Tech Stack
+<p align="center">
+  <a href="https://github.com/BrunoBarrera1?tab=followers">
+    <img src="https://img.shields.io/github/followers/BrunoBarrera1?label=Follow&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/BrunoBarrera1">
+    <img src="https://komarev.com/ghpvc/?username=BrunoBarrera1&style=for-the-badge" />
+  </a>
+</p>
 
-**Backend:** Fastify, Flask, Fastapi, Ts, Python, C
-**Frontend:** Css
-**AI:** Gemini API
-**DevOps:** Docker, Vercel
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" />
+
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### **ELIO – AI Clinical Notes Assistant**
-AI-powered assistant designed for doctors to generate fast, structured medical notes.  
-**Stack:** Fastify • TypeScript • Gemini • Angular  
-**→** _[Repository link]_
-
+### **ELIO — AI Clinical Notes Assistant**
+AI-powered medical documentation tool.  
+**Stack:** Fastify • TS • Gemini • Angular  
+ _Repo coming soon_
+ 
 ---
 
 ## GitHub Stats
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoBarrera1&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBarrera1&layout=compact&theme=github_dark" height="165" />
+</p>
 
-<!--
-**BrunoBarrera1/BrunoBarrera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Building scalable TS/Fastify backends  
+- System automation with Bash & Python  
+- Clean UI work with minimal CSS / Tailwind  
+- AI integrations (Gemini, LangChain)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contact
+**LinkedIn:** https://linkedin.com/in/YOUR_LINK  
+**Email:** you@example.com
