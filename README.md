@@ -39,7 +39,7 @@
 ### **ELIO — AI Clinical Notes Assistant**
 AI-powered medical documentation tool.  
 **Stack:** Fastify • TS • Gemini • Angular  
- _Repo coming soon_
+_Repo coming soon_
 
 ---
 
@@ -53,7 +53,7 @@ AI-powered medical documentation tool.
 ---
 
 ## What I'm Working On
-- Building scalable TS/Fastify backends   
+- Building scalable TS/Fastify backends  
 - Clean UI work with minimal CSS / Tailwind  
 - AI integrations (Gemini, GPT)
 
@@ -89,6 +89,13 @@ These are the technologies I want to master moving forward:
 ## 4. My Philosophy
 Write clean code, keep systems modular, and never overcomplicate.  
 Simple is always better than clever.
+
+---
+
+## Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunoBarrera1/BrunoBarrera1/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
