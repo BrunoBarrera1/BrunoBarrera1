@@ -92,11 +92,6 @@ Simple is always better than clever.
 
 ---
 
-## Activity Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoBarrera1/BrunoBarrera1/output/snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## Contact
