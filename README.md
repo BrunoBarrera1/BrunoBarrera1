@@ -78,7 +78,7 @@ These are the technologies I want to master moving forward:
 
 ---
 
-## 7. Roadmap 2025
+## 3. Roadmap 2026
 - Get comfortable with enterprise-level backend patterns  
 - Build production-ready AI assistants  
 - Master low-level programming and memory concepts  
@@ -86,7 +86,7 @@ These are the technologies I want to master moving forward:
 
 ---
 
-## 9. My Philosophy
+## 4. My Philosophy
 Write clean code, keep systems modular, and never overcomplicate.  
 Simple is always better than clever.
 
