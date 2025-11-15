@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I build practical, scalable systems — APIs, automation tools, and clean frontends.
+  Im a programming student and my main focus is to build clean, scalable systems — APIs, automation tools, and clean frontends.
   Currently working on <b>ELIO</b>, an AI-powered clinical documentation assistant.
 </p>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <!-- Bash -->
@@ -72,5 +72,5 @@ AI-powered medical documentation tool.
 ---
 
 ## Contact
-**LinkedIn:** https://linkedin.com/in/YOUR_LINK  
-**Email:** you@example.com
+**LinkedIn:** https://linkedin.com/in/https://www.linkedin.com/in/bruno-barrera-27a7ba389/ 
+**Email:** brunoholberton11@gmail.com
