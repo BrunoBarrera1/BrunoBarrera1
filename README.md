@@ -1,4 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/BrunoBarrera1/BrunoBarrera1/output/snake.svg)
 <h1 align="center"> Hey, I'm Bruno</h1>
 <p align="center">
   <b>Full-Stack Developer — Backend Focus (TS, Node, Fastify) | Python | C | Bash</b>
