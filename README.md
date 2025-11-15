@@ -64,10 +64,9 @@ AI-powered medical documentation tool.
 ---
 
 ## What I'm Working On
-- Building scalable TS/Fastify backends  
-- System automation with Bash & Python  
+- Building scalable TS/Fastify backends   
 - Clean UI work with minimal CSS / Tailwind  
-- AI integrations (Gemini, LangChain)
+- AI integrations (Gemini, GPT)
 
 ---
 
