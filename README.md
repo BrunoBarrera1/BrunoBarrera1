@@ -24,22 +24,11 @@
 ## Languages & Tools
 
 <p align="left">
-  <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" />
-
-  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" />
-
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
-
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-
-  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
-
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
 </p>
 
@@ -51,7 +40,7 @@
 AI-powered medical documentation tool.  
 **Stack:** Fastify • TS • Gemini • Angular  
  _Repo coming soon_
- 
+
 ---
 
 ## GitHub Stats
@@ -70,6 +59,39 @@ AI-powered medical documentation tool.
 
 ---
 
+# Additional Sections
+
+## 1. About Me
+I like designing backend architectures that are clean, predictable, and easy to scale.  
+My current focus is building systems that feel simple on the outside and powerful underneath.
+
+---
+
+## 2. Technologies I'm Learning Next
+These are the technologies I want to master moving forward:
+
+- C#
+- C++
+- .NET  
+- More advanced backend design patterns  
+- High-performance systems
+
+---
+
+## 7. Roadmap 2025
+- Get comfortable with enterprise-level backend patterns  
+- Build production-ready AI assistants  
+- Master low-level programming and memory concepts  
+- Learn .NET for industry-level backend work
+
+---
+
+## 9. My Philosophy
+Write clean code, keep systems modular, and never overcomplicate.  
+Simple is always better than clever.
+
+---
+
 ## Contact
-**LinkedIn:** https://linkedin.com/in/https://www.linkedin.com/in/bruno-barrera-27a7ba389/ 
+**LinkedIn:** https://linkedin.com/in/bruno-barrera-27a7ba389/  
 **Email:** brunoholberton11@gmail.com
